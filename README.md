@@ -18,7 +18,7 @@ The parton shower examples from the DCTR paper ([arXiv:1907.08209](https://arxiv
 - $\texttt{StringFlav:probStoUD}$: `./Parton-Shower-MC-Tuning/SRGN_1D_probStoUD.ipynb`
 
 ### Top Quark Mass
-Finally, a measurement of the top quark mass is used as a third example to demonstrate both multivariate fitting and detector effects: `./TopQuarkMass.ipynb`
+Finally, a measurement of the top quark mass is used as a third example to demonstrate both multivariate fitting and detector effects: `./Top-Quark-Mass.ipynb`
 
 ## Sample Datasets
 The datasets used to run the example notebooks can be found on Zenodo. Specficially, the datasets for the Parton Shower example can be found at https://zenodo.org/record/3518708, and the datasets used for the Top Quark Mass example can be found at https://zenodo.org/record/4067673.
